@@ -1,26 +1,27 @@
 # Predicting Match Outcomes in League of Legends Using Logistic Regression
 
-You can view the full project report [here](./project_report_template.html).
+You can view the full project report [here](./project_report_template.html). Download and open the html file to render the file.
 
 ## Contents
 
-- 1) Inspiration
-- 2) Stakeholders
-- 3) Task and Metrics
-- 4) Data
-- 5) PredictionLinear and Unregularized ModelNon-linear and Regularized ModelThe Interpretation of the Results
-- Linear and Unregularized Model
-- Non-linear and Regularized Model
-- The Interpretation of the Results
-- 6) InferenceEffect of Each Predictor on the Response (blueWins)ReliabilityVariation in the Response
-- Effect of Each Predictor on the Response (blueWins)
-- Reliability
-- Variation in the Response
-- 7) Recommendation to StakeholdersMain Action Items for StakeholdersLimitationsOvercoming Limitations
-- Main Action Items for Stakeholders
-- Limitations
-- Overcoming Limitations
-- 8) Conclusion
+1. [Inspiration](#1-inspiration)
+2. [Stakeholders](#2-stakeholders)
+3. [Task and Metrics](#3-task-and-metrics)
+4. [Data](#4-data)
+5. [Prediction](#5-prediction)
+   - [Linear and Unregularized Model](#linear-and-unregularized-model)
+   - [Non-linear and Regularized Model](#non-linear-and-regularized-model)
+   - [The Interpretation of the Results](#the-interpretation-of-the-results)
+6. [Inference](#6-inference)
+   - [Effect of Each Predictor on the Response (blueWins)](#effect-of-each-predictor-on-the-response-bluewins)
+   - [Reliability](#reliability)
+   - [Variation in the Response](#variation-in-the-response)
+7. [Recommendations to Stakeholders](#7-recommendations-to-stakeholders)
+   - [Main Action Items](#main-action-items)
+   - [Limitations](#limitations)
+   - [Overcoming Limitations](#overcoming-limitations)
+8. [Conclusion](#8-conclusion)
+
 # Predicting Match Outcomes in League of Legends Using Logistic Regression
 
 Project Report for STAT 303-2 Winter 2025
